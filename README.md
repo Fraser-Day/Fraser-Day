@@ -1,5 +1,5 @@
 - @Fraser-Day
-- Java/C//C#/Python
+- Java/C/C#/Python
 - University of Birmingham Comp Sci w/ PwC
 
 
